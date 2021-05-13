@@ -67,7 +67,16 @@ Corrija a quinta questão
 Repita o processo até o fim da pilha
 ```
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
-
+```
+x pessoas
+Selecione quem será o mestre
+Se o mestre diz "morto"
+Os outros se deitam no chão
+Se o mestre diz "vivo"
+Os outros ficam em pé
+Elimina-se quem não obedecer o comando correto do mestre
+Repita os comandos até cansar ou todos errarem
+```
 7. Faça um algoritmo que some três números.
 
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
