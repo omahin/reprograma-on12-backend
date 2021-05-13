@@ -78,7 +78,11 @@ Elimina-se quem não obedecer o comando correto do mestre
 Repita os comandos até cansar ou todos errarem
 ```
 7. Faça um algoritmo que some três números.
-
+```
+Receba 3 números
+Some os 3 números
+Imprima o resultado
+```
 8. Faça um algoritmo que descubra se um número é par ou ímpar.
 
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
