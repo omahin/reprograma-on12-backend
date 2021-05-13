@@ -1,9 +1,22 @@
-## Algoritmos
+# Algoritmos
 
 _Os exercícios a seguir devem ser resolvidos em linguagem natural, utilizando estrutura de narrativa, fluxograma ou pseudocódigo. Consulte a professora!_
 
 1. Faça um algoritmo que mostre o passo a passo de uma troca de lâmpada queimada.
-
+```
+Pegue uma escada
+Suba a escada
+Retire a lâmpada queimada
+Desça a escada
+Descarte a lâmpada queimada
+Pegue a lâmpada nova
+Suba a escada
+Coloque a lâmpada nova no bocal
+Desça a escada 
+Acione o interruptor
+Se a lâmpada acender FIM
+Senão repita todo o processo
+```
 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
 
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
