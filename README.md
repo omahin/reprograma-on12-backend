@@ -90,5 +90,12 @@ Se o número /2 = 0 PAR
 Senão ÍMPAR
 ```
 9. Faça um algoritmo para calcular a média aritmética entre duas notas de um aluno e mostrar sua situação, que pode ser aprovado ou reprovado.
-
+```
+Receba nota 1
+Receba nota 2
+Some as notas
+Divida o resultado por 2
+Se =>7 Aprovado
+Senão Reprovado
+```
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
