@@ -44,7 +44,17 @@ Aperte os parafusos
 Desça o carro e retire o macaco
 ```
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
-
+```
+Insira o cartão na abertura indicada
+Selecione a opção pagamento com código de barras
+Posicione a conta na abertura indicada
+Confira as informações na tela
+Aperte ok
+Insira a sua senha e/ou digital
+Espere a saída do comprovante
+Retire o comprovante
+Retire o cartão
+```
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
 
 6. Faça um algoritmo que represente a brincadeira "Morto! Vivo!".
