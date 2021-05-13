@@ -99,3 +99,8 @@ Se =>7 Aprovado
 Senão Reprovado
 ```
 10. Faça um algoritmo para calcular o novo salário de um funcionário. Sabe-se que os funcionários que recebem atualmente salário de até R$500 terão aumento de 20%; os demais terão aumento de 10%.
+```
+Receba valor x
+Se até R$500 some 20%
+Senão some 10%
+```
