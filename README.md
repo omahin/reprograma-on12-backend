@@ -30,7 +30,19 @@ Coloque-os no escorredor
 Senão enxague-os novamente
 ```
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
-
+```
+Estacione o carro
+Puxe o freio de mão
+Desligue o carro
+Pegue o estepe e o macaco
+Levante o macaco até que ele apoie o carro
+Tire a calota e afrouxe os parafusos
+Levante um pouco mais o pneu furado
+Remova os parafusos e o pneu furado
+Ponha o estepe no eixo
+Aperte os parafusos
+Desça o carro e retire o macaco
+```
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
 
 5. Faça um algoritmo que mostre o passo a passo de um professor corrigindo uma pilha (de quantidade indefinida) de provas, com 5 questões cada.
