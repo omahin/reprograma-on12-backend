@@ -18,7 +18,17 @@ Se a lâmpada acender FIM
 Senão repita todo o processo
 ```
 2. Faça um algoritmo que mostre o passo a passo de uma lavar pratos.
-
+```
+Pegue a esponja
+Ligue a torneira
+Molhe a esponja
+Coloque detergente na esponja
+Esfregue a esponja nos pratos
+Enxague os pratos
+Se os pratos estiverem livres de espuma e sujeira
+Coloque-os no escorredor
+Senão enxague-os novamente
+```
 3. Faça um algoritmo que mostre o passo a passo de uma troca de um pneu furado.
 
 4. Faça um algoritmo que mostre o passo a passo de um débito num caixa eletrônico.
